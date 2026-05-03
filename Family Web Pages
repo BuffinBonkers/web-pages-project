@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Carter Family</title>
+</head>
+<body>
+
+    <h1>The Carter Family</h1>
+
+    <h2>Parents</h2>
+    <p><strong>John Carter (Father)</strong> - John works as a civil engineer. He designs roads and bridges and enjoys solving real-world problems.</p>
+    <p><strong>Emily Carter (Mother)</strong> - Emily is a registered nurse. She works at a local hospital and loves helping people feel better.</p>
+
+    <h2>Children</h2>
+    <p><strong>Lucas (Age 17)</strong> - Lucas is a high school senior. He plays basketball, works part-time at a grocery store, and plans to study computer science in college.</p>
+    
+    <p><strong>Sophia (Age 14)</strong> - Sophia is in middle school. She enjoys painting, reading mystery books, and is part of the school art club.</p>
+    
+    <p><strong>Noah (Age 9)</strong> - Noah is in elementary school. He loves playing video games, riding his bike, and building LEGO sets.</p>
+
+    <h2>Family Pet</h2>
+    <p>The Carter family has a golden retriever named <strong>Buddy</strong>. Buddy is very friendly and loves going on walks and playing fetch in the backyard.</p>
+
+    <h2>Recent Family Vacation</h2>
+    <p>The Carter family recently took a vacation to the beach in Florida. They spent their days swimming in the ocean, building sandcastles, and trying new seafood restaurants. One of their favorite moments was watching the sunset together on the last night of the trip.</p>
+
+</body>
+</html>
